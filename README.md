@@ -11,3 +11,5 @@ The chapters are as follows:
   -  Chapter 6: Structures
   -  Chapter 7: Input and Output
   -  Chapter 8: The UNIX System Reference
+
+Each chapter directory contains a subdirectory for each of the exercises. In those directories you will find the source for the solution alongside the executable.
